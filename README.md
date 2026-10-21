@@ -20,7 +20,7 @@ This repository contains the experimental materials for the paper:
 
 \- Generated figures used in the paper
 
-\- Render Video recorded for visual comparison can be seen on Youtube Playlist: https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
+\- Render Video recorded for visual comparison can be seen on Youtube Playlist: https://www.youtube.com/watch?v=daDjPJyB86o\&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
 
 
 
@@ -36,7 +36,7 @@ Unity 6000.2.12f1
 
 
 
-NVIDIA RTX 4060 Laptop GPU  
+NVIDIA RTX 4060 Laptop GPU
 
 Intel Core i7-13620H
 
@@ -44,7 +44,19 @@ Intel Core i7-13620H
 
 \## License
 
+&#x20;  ## FAQ
 
+
+
+&#x20;  \*\*Which Unity version is required?\*\*
+
+&#x20;  See the "Engine Version" section above.
+
+
+
+&#x20;  \*\*Where can I find the raw measurements?\*\*
+
+&#x20;  In the "Measured Data" folder of this repository.
 
 MIT
 
